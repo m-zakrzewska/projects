@@ -13,7 +13,7 @@ There will be multiple projects I did during my academic journey and after work 
 
 1. Clusterization and classification on hepatitis dataset:
 
-The report in html (made in *RMarkdown*) shows little data exploration, clusterization with PAM, DIANA, AGNES and K-prototypes methods and classification if the patiend died/lived by Logistic Regression, AdaBoost and Decision Trees. 
+The report in html and pdf (made in *RMarkdown*) shows little data exploration, clusterization with PAM, DIANA, AGNES and K-prototypes methods and classification if the patiend died/lived by Logistic Regression, AdaBoost and Decision Trees. 
 
 ## Python
 
