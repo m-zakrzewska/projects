@@ -2,7 +2,7 @@
 
 This repository shows a few projects I made to show (more or less) what I know.
 
-It is split in 3 "libraries":
+It is split in 3 folders:
 * Python,
 * R,
 * PowerBI.
@@ -17,7 +17,9 @@ The report in html and pdf (made in *RMarkdown*) shows little data exploration, 
 
 ## Python
 
-Will be updated
+1. EDA and classification of wine quality dataset:
+
+It is a jupyter notebook that contains EDA and classification using Stochastic Gradient Descent (SGD), Logistic Regression, Decision Trees, Random Forest, AdaBoost (with DecisionTreeClassifier as base estimator), GradientBoost (with DecisionTreeClassifier as base estimator). It has also simple Artificial Neural Network (version with adjusting number of nodes and hidden layer will be implemented later).
 
 ## PowerBI
 
